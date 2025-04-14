@@ -91,6 +91,6 @@ Let’s build the future of NFTs together! 🚀
 Made with ❤️ by the **NeoNFT Team**
 
 For any queries or collaboration ideas, feel free to reach out:  
-📧  [ekanshbhushan@gmail.com](mailto:mohdfaeezahmed@gmail.com)  
+📧  [mohdfaeezahmed@gmail.com](mailto:mohdfaeezahmed@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/faeez-ahmed-a26b83235/)  
 🌐 [Website](https://mohdfaeezahmed.com)
