@@ -52,7 +52,7 @@ NeoNFT is a next-generation Web3-based NFT Marketplace that empowers users to mi
 ##  Installation & Running Locally
 
 ```bash
-git clone https://github.com/Ekansh-Bhushan/NeoNFT.git
+git clone https://github.com/mohdfaeezahmed/NeoNFT.git
 cd NeoNFT
 
 # version of the node should be 18.17.1
